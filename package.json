@@ -1,0 +1,24 @@
+{
+    "name": "nodejs_jwt",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node src/server.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/NguyennDuyyThaii/NodeJS_JWT.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/NguyennDuyyThaii/NodeJS_JWT/issues"
+    },
+    "homepage": "https://github.com/NguyennDuyyThaii/NodeJS_JWT#readme",
+    "dependencies": {
+        "express": "^4.17.1",
+        "jsonwebtoken": "^8.5.1"
+    }
+}
